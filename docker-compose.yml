@@ -7,4 +7,4 @@ services:
     volumes:
       - .:/app
     environment:
-      - GOPATH=/godev/dev/lib
+      - GOPATH=/app
